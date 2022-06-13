@@ -7,3 +7,5 @@ for dict_key in my_list:
 
 produkty = [len(my_list[dict_key])+len(my_list[dict_key])]
 print(f"W sumie kupuje {produkty} produktów")
+
+#Kod wydaje się nagle nie działać 
