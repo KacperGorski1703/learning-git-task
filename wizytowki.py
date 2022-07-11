@@ -1,4 +1,5 @@
 """
+Za nic mi to dalej nie chce zadziałać
 import Faker
 fake = Faker()
 fake = Faker(['en_US'])
